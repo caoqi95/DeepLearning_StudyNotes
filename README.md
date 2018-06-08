@@ -1,4 +1,4 @@
-# DeepLearning_study
-study&amp;practice
+# 深度学习内容汇总
 
-These are some of the exercises I did while studying Deep Learning, some of which are from the Web and others from Udacity.
+
+包含 Udacity 深度学习纳米学位的五个项目以及一些深度学习的补充练习。
