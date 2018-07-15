@@ -8,3 +8,5 @@
   - 生成人脸
   - 训练四轴飞行器飞行
 + 一些深度学习的个人补充练习。
+  - 使用小数据集来建立强大的图片分类
+  - RNN in TensorFlow Tutorial - Part1 - from R2RT 
