@@ -1,5 +1,5 @@
 
-声明：此实践来自于 [R2RT大神博客中的RNN in Tebsorflow的两篇教程之一](https://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html), 版权归R2RT所有，不妥删，感谢R2RT大神以及评论中的一些大神对于概率算法的的解释。
+声明：此实践来自于 [R2RT大神博客中的RNN in Tebsorflow的两篇教程之一](https://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html)，版权归R2RT所有，不妥删。这里渣翻译主要是为了自己理解学习，且后面训练的结果有些不太一样，有些内容也没详细翻译。感谢R2RT大神以及评论中的一些大神对于概率算法的的解释。
 
 
 
