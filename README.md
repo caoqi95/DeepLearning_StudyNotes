@@ -13,6 +13,7 @@
 
   - 使用小数据集来建立强大的图片分类
   - RNN in TensorFlow Tutorial - Part1 - from R2RT 
+  - 搭建电影推荐系统
   
 + 深度学习笔记：
  
