@@ -7,7 +7,7 @@
   - 02-识别狗狗品种 (CNN + Transfor learning)
   - 03-生成电视剧剧本 (RNN)
   - 04-生成人脸 (GAN)
-  - 05-训练四轴飞行器飞行 (Reinforcement tlearning)
+  - 05-训练四轴飞行器飞行 (Reinforcement learning)
   
 + 一些深度学习的个人补充练习：
 
